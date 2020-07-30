@@ -3,7 +3,7 @@
 Clone the repo:
 
 ```sh
-git clone https://github.com/moeinghbh/docker-flask-uwsgi-nginx-simple.git
+git clone https://github.com/moeinghbh/docker-flask-uwsgi-nginx.git
 ```
 
 To develop locally, create a new virtual env in the `flask` directory & run the app:
